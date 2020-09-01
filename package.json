@@ -1,0 +1,26 @@
+{
+  "name": "discord_bot",
+  "version": "1.0.0",
+  "description": "a bot to test features on",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/natesampson6/discord_bot.git"
+  },
+  "author": "Nate Sampson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/natesampson6/discord_bot/issues"
+  },
+  "homepage": "https://github.com/natesampson6/discord_bot#readme",
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
